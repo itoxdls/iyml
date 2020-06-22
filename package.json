@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "Carlos De Los Santos"
+  },
+  "description": "Extensión yml",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "iyml",
+  "scripts": {
+    "yml": "node index.js"
+  },
+  "version": "1.0.4"
+}
