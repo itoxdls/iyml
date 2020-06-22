@@ -9,5 +9,6 @@
   "scripts": {
     "yml": "node index.js"
   },
-  "version": "1.0.6"
+  "version": "1.0.6",
+  "repository": "itoxdls/iyml"
 }
